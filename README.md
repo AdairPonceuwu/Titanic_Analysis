@@ -1,4 +1,4 @@
-# Análisis de dados sobre los sobrevivientes del Titanic
+# Análisis de datos sobre los sobrevivientes del Titanic
 
 Este proyecto realiza un análisis de los pasajeros del Titanic y calcula la **edad promedio** para cada clase de pasajeros (`Pclass`). Utilizando un gráfico de barras, visualizamos la distribución de las edades medias por clase y añadimos una leyenda que explica el color de las barras. Además de un gráfico de pastel donde observamos el porcentaje de sobrevivientes con respecto a las 3 clases existentes.
 
